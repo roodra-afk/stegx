@@ -124,7 +124,7 @@ Any change likely corrupts the hidden payload.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 **For educational and research use only.  
 Do not use for unauthorized data concealment.**
